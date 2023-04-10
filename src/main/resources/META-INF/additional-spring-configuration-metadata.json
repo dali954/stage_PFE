@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "gitlab.base-url",
+    "type": "java.lang.String",
+    "description": "A description for 'gitlab.base-url'"
+  },
+  {
+    "name": "gitlab.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'gitlab.api.url'"
+  },
+  {
+    "name": "gitlab.base-url",
+    "type": "java.lang.String",
+    "description": "A description for 'gitlab.base-url'"
+  },
+  {
+    "name": "gitlab.base-url",
+    "type": "java.lang.String",
+    "description": "A description for 'gitlab.base-url'"
+  }
+]}
